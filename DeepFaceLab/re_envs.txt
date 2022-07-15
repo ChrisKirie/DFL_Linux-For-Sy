@@ -1,0 +1,7 @@
+python==3.6.10
+
+创建DeepFaceLab的虚拟环境，并激活。
+conda create -y -n dfl python=3.6.6 cudatoolkit=10.1 cudnn=8.0.5
+conda activate dfl
+
+CUDA Version 10.0.130
